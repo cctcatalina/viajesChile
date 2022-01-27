@@ -1,0 +1,77 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Navbar */
+.header .navbar {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    z-index: 1;
+  }
+
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#hr{
+    color: cornflowerblue;
+}
+
+.hr{
+    border: 0 none cornflowerblue;
+    border-top: 1px solid cornflowerblue;
+}
+
+h4{
+    font-weight: bolder;
+}
+
+/*Quienes somos*/
+#quienes-somos{
+    background-color: black;
+    color: #ffff
+}
+
+/*Destacados*/
+#destacados{
+    background-color: black;
+    color: #ffff;
+}
+
+
+.card{
+    background-color: cornflowerblue;
+}
+
+.card-body{
+    text-align: left;
+}
+
+/*Contacto*/
+#contacto{
+    background-color: black;
+    color: #ffff;
+}
+
+#form{
+    background-color: #ffff;
+    color: black;
+}
+
+/*Footer*/
+#footer{
+    background-color: cornflowerblue;
+    color: #ffff;
+}
+
+#footer h1{
+    font-size: 30px;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+}
